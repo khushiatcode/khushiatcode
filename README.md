@@ -1,5 +1,5 @@
 <h2> Khushi Savaliya</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
