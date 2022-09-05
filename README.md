@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C
+- 💻 &nbsp; Java | C++ | C | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Visual Studio code | Eclipse | IntelliJ IDEA | Git 
 
