@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; A Computer Science Student. 
-- 🔭 &nbsp; Exploring new technologies.
+- 🎓 &nbsp; A Computer Science Student
+- 🔭 &nbsp; Exploring new technologies
 <!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
