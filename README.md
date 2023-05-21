@@ -13,9 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C | Python
+- ✅ &nbsp; Java | C++ | C | Python 
+- 💻  &nbsp; ML | DL | NLP | Data Warehousing 
 - 🌐 &nbsp; HTML | CSS | JavaScript
-- 🔧 &nbsp; Visual Studio code | Eclipse | IntelliJ IDEA | Git 
+- 🔧 &nbsp; Visual Studio code | Eclipse | IntelliJ IDEA | Git | PyCharm | Oracle SQL Developer | Weka
 
 <br>
 
