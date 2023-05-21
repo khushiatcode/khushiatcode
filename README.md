@@ -15,7 +15,7 @@
 
 - ✅ &nbsp; Java | C++ | C | Python 
 - 💻  &nbsp; ML | DL | NLP | Data Warehousing 
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript | React
 - 🔧 &nbsp; Visual Studio code | Eclipse | IntelliJ IDEA | Git | PyCharm | Oracle SQL Developer | Weka
 
 <br>
