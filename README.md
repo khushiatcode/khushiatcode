@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Intern at Cugnux Softtech 
+- 🎓 &nbsp; Intern at Cygnux Softtech 
 - 🔭 &nbsp; B.Tech in CSE (AI & ML) - Final Year (RCOEM, Nagpur) 
 <!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
