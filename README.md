@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; A Computer Science Student
-- 🔭 &nbsp; Exploring new technologies
+- 🎓 &nbsp; Intern at Cugnux Softtech 
+- 🔭 &nbsp; B.Tech in CSE (AI & ML) - Final Year (RCOEM, Nagpur) 
 <!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
@@ -13,9 +13,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- ✅ &nbsp; Java | C++ | C | Python 
-- 💻  &nbsp; ML | DL | NLP | Data Warehousing 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React
+- ✅ &nbsp; Java | C++ | C | Python | SQL | C#
+- 💻  &nbsp; ML | DL | NLP | Data Warehousing | Salesforce
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | .NET
 - 🔧 &nbsp; Visual Studio code | Eclipse | IntelliJ IDEA | Git | PyCharm | Oracle SQL Developer | Weka
 
 <br>
