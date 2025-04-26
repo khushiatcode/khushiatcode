@@ -13,10 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- ✅ &nbsp; Java | C++ | C | Python | SQL | C#
-- 💻  &nbsp; ML | DL | NLP | Data Warehousing | Salesforce
+- ✅ &nbsp;  Python | Java | C++ | C | SQL | C#
+- 💻  &nbsp; AI | ML | DL | NLP | Data Warehousing 
 - 🌐 &nbsp; HTML | CSS | JavaScript | React | .NET
-- 🔧 &nbsp; Visual Studio code | Eclipse | IntelliJ IDEA | Git | PyCharm | Oracle SQL Developer | Weka
+- 🔧 &nbsp; Cursor | GenSpark | Visual Studio code | Eclipse | IntelliJ IDEA | Git | PyCharm | Oracle SQL Developer | Weka
 
 <br>
 
