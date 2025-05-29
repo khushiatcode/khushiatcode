@@ -15,8 +15,9 @@
 
 - ✅ &nbsp;  Python | Java | C++ | C | SQL | C#
 - 💻  &nbsp; AI | ML | DL | NLP | Data Warehousing 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | .NET
-- 🔧 &nbsp; Cursor | GenSpark | Visual Studio code | Eclipse | IntelliJ IDEA | Git | PyCharm | Oracle SQL Developer | Weka
+- 🌐 &nbsp; LangChain, LangGraph, TensorFlow, NLTK, Keras, Numpy, Pandas, PyTorch, Scikit-learn, OpenCV, 
+RAG, AI Agents, MCP Servers, Hugging Face, YOLO, PySpark, Hugging Face, BeautifulSoup, Matplotlib, Seaborn, Prompt Engineering, Reinforcement Learning, Transformers, MySQL
+- 🔧 &nbsp; n8n, AWS Lambda, S3, CI/CD, Jenkins, Ansible, Kubernetes, ETL, AWS, Pinecone, Azure, GCP, DynamoDB, Salesforce, Tableau, MapReduce, React
 
 <br>
 
