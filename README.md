@@ -13,11 +13,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- ✅ &nbsp;  Python | Java | C++ | C | SQL | C#
-- 💻  &nbsp; AI | ML | DL | NLP | Data Warehousing 
-- 🌐 &nbsp; LangChain, LangGraph, TensorFlow, NLTK, Keras, Numpy, Pandas, PyTorch, Scikit-learn, OpenCV, 
-RAG, AI Agents, MCP Servers, Hugging Face, YOLO, PySpark, Hugging Face, BeautifulSoup, Matplotlib, Seaborn, Prompt Engineering, Reinforcement Learning, Transformers, MySQL
-- 🔧 &nbsp; n8n, AWS Lambda, S3, CI/CD, Jenkins, Ansible, Kubernetes, ETL, AWS, Pinecone, Azure, GCP, DynamoDB, Salesforce, Tableau, MapReduce, React
+- ✅ &nbsp;  Python | Java | C++ | C | SQL | C# | HTML | CSS | Javascript
+- 💻  &nbsp; AI | ML | DL | NLP | Object Oriented Programming | Design Patterns | Database Systems | Algorithms
+- 🏛️ &nbsp; LLMs | RAG | AI Agents | MCP Servers | Prompt Engineering | Reinforcement Learning | Transformers | CI/CD
+- 🌐 &nbsp; LangChain | LangGraph | TensorFlow | NLTK | Keras | Numpy | Pandas | PyTorch | Scikit-learn | OpenCV |  Hugging Face | YOLO | PySpark | Hugging Face | BeautifulSoup | Matplotlib | Seaborn | 
+- 🔧 &nbsp; n8n | AWS Lambda | S3 | Jenkins | Ansible | Kubernetes | ETL | AWS | Pinecone | Azure | GCP | DynamoDB | Salesforce | Tableau | MapReduce | React | MySQL
 
 <br>
 
